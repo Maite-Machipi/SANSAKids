@@ -1,6 +1,5 @@
 <h1>SANSA Kids Portal</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 🌍 SANSA Kids Portal – Explore Space, Science & Beyond!
